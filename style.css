@@ -1,0 +1,27 @@
+a.mail,.github,.portfolio_link,.address,.phone,.dob,.linkedin_link{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+i{
+    color: #59719A;
+}
+.social_links{
+    background-color: rgba(204, 204, 204, 0.181);
+    padding-left: 7.5rem;
+}
+.main_section{
+    padding-left: 7.5rem;
+}
+.education_title,.skill_title,.tech_skill,.education_para,.certificate{
+    color: #59719A;
+}
+ul{
+    list-style: none;
+}
+ul>.skill_list{
+    padding:5px;
+    background-color: #49679a75;
+    margin: 0 5px;
+    color: white;
+    border-radius: 5px;
+}
